@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+db.sqlite3
+.DS_Store
+todo_venv/
+frontend/node_modules/
